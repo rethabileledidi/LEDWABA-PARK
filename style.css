@@ -82,12 +82,13 @@ header{
 }
 .navbar .nav-logo .logo-text{
     color: var(--white-color);
+    
 
 }
 
 .navbar .nav-menu .nav-link{
     padding: 10px 18px;
-
+    font-size: var(--font-size-m);
     color: var(--white-color);
     background: var(--secondary-color);
     border-radius: var(--border-radius-m);
