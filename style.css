@@ -13,7 +13,7 @@
     --dark-color: #252525;
     --primary-color: #3b141c;
     --secondary-color: #D2B48C;
-    --light-pink-color: #b18e94;
+    --light-pink-color: #4e393d;
     --medium-gray-color: #ccc;
 
     /*Font sizes of the website*/
@@ -94,7 +94,7 @@ header{
     transition:0.3s ease;
 
 }
-.navbar .nav-menu .nav-link :hover{
+.navbar .nav-menu .nav-link :hover {
     color:var(--primary-color);
     background: var(--secondary-color);
 }
