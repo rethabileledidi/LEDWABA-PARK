@@ -58,6 +58,11 @@ button{
 img{
     width: 100%;
 }
+.section-content{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 20px;
+}
 .navbar .nav-logo .logo-text{
     color: var(--white-color);
     
@@ -82,7 +87,8 @@ header{
 }
 .navbar .nav-logo .logo-text{
     color: var(--white-color);
-    
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-semi-bold);
 
 }
 
@@ -92,11 +98,10 @@ header{
     color: var(--white-color);
     background: var(--secondary-color);
     border-radius: var(--border-radius-m);
-    transition:0.3s ease;
+    transition: 0.3s ease;
 
 }
-.navbar .nav-menu .nav-link :hover {
-    color:var(--primary-color);
-    background: var(--secondary-color);
+.navbar .nav-menu .nav-link:hover{
+    background: var(--light-pink-color);
+    color: var(--white-color);
 }
-
