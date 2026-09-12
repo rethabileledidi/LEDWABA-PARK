@@ -1,4 +1,4 @@
-# 🍺 [Pub & Grill Name] Website
+# 🍺 LEDWABA PARK PUB & GRILL Website
 
 A website for my dad's pub and grill — built to showcase the menu, hours, location, and vibe, and to give customers an easy way to find us online.
 
@@ -19,7 +19,7 @@ A website for my dad's pub and grill — built to showcase the menu, hours, loca
 - HTML5
 - CSS3
 - JavaScript
-- [Any frameworks/libraries you're using — e.g. React, Vite, etc.]
+
 
 ## 🎨 Design System
 
